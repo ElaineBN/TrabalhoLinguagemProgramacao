@@ -4,7 +4,7 @@ import pygame
 import pygame.mixer_music
 
 from code.Menu import Menu
-from code.const import WIN_HEIGHT, WIN_WIDTH
+from code.Const import WIN_HEIGHT, WIN_WIDTH
 
 
 class Game:
